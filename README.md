@@ -4,15 +4,30 @@ LibreOffice Certification is open to all qualified professionals, with an obviou
 
 For the time being, LibreOffice Certification is free for everyone. On the other hand, The Document Foundation may decide at any time to ask for coverage of expenses incurred by the organization for the maintenance of the certification project.
 
+### TDF Members
+
 LibreOffice Certification will always be free \(as in beer\) for TDF Members, and also for active project members such as regular code contributors, volunteers active in QA and localization projects, contributors of native language projects, and other volunteers recognized for the quality and continuity of their work by the Certification Committee.
 
-Certification is subject to the involvement in LibreOffice development, or in migration and training projects. The involvement must be demonstrated by a number of relevant documents \(described in a list at the end of this document\), or testified by a TDF Member who has been certified - in the same discipline - for at least one year.
-
-Applications of people who have never been involved in the LibreOffice project, neither in development nor in migrations and/or trainings, will be managed as an exception to the standard process on a case by case basis. These individuals will have to go through a specific certification training \(in English\), based on distance learning technologies, to get the title of “Trained xxx Professional” \(where xxx is either Migration or Training\). They will be followed by a mentor for one year, and at the end they will be able to access the certification process.
+Certification is subject to the involvement in LibreOffice migration and training projects. The involvement must be demonstrated by a number of relevant documents \(described in a list at the end of this document\), which is a pre-requisite for the access to the peer-to-peer review.
 
 Professionals willing to be certified must fill in the application form, and provide the necessary documents \(see the list below\). Once the Certification Committee has duly reviewed and approved the application, the candidate will be able to go through the peer-to-peer review.
 
 Certification is open throughout the year. Once candidates are approved by the Certification Committee, they will be admitted to the peer-to-peer review session. There will be at least two sessions each year: one at FOSDEM in Winter and one at the LibreOffice Conference in Summer. Other certification sessions might be planned according to the number of candidates.
+
+### Non TDF Members
+
+Non TDF Members, willing to get the Migration Professional or Trainer Professional certification, and having no experience in the TDF community or in migration or training projects for LibreOffice must have at least user experience as well as experience in the IT professional service area.
+
+They have to show them and argue for their willingness and readiness for a mentorship program to reach this trained stages. After they have become trained they could be certified in the normal process as described above like TDF members.
+
+The mentorship is lasting a minimum of half a year and is proceeded by a certified member of the committee with activities in following areas:
+
+* Training via video conference with the certification material \(whitepaper for migrations, trainings\) in a
+* Check and discuss questions out of the certification questionnaire\(without handing out the whole document!\)in the different sections
+* Help and mentoring at least two areas of community help \(like helping in bug hunting sessions, attending and active participation in a hackfest, answering user questions on mailing lists/forums, working within qa, documentation, marketing, development …\)
+* When no lasting project in migration or training is done: prepare and demonstrate a set of training materials or a project&communication plan for a fictive customer \(what is needed as well when they are doing such a project, so its a perfect preparation for acquiring or doing such a project\)
+
+After this period \(of at least half a year\) the mentor will help to apply the application and testify for the applicant to the certification committee, and if it is recognized they will proceed the normal certification process as experienced ones \(without guaranty for getting the certification batch\).
 
 ### **Certification expiration and renewal**
 
@@ -53,4 +68,6 @@ The following list cannot be considered in any way as complete or exhaustive:
 8. Progress report for a LibreOffice migration project.
 
 9. Project report for interoperability problems with third party software.
+
+
 
