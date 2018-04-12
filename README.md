@@ -1,6 +1,6 @@
 # LIBREOFFICE CERTIFICATION PRE-REQUISITES
 
-LibreOffice Certification is open to all qualified professionals, with an obvious preference for TDF Members and active project members. With the term qualified, we refer to people who have been or are involved in LibreOffice Migration or Training projects. For non-qualified professionals, we provide an alternative path to LibreOffice Certification, which is outlined in detail in a specific paragraph.
+LibreOffice Certification is open to all qualified professionals, with an obvious preference for TDF Members and active project members. With the term qualified, we refer to people who have been or are involved in LibreOffice migration or training projects, and are current members of The Document Foundation or another FOSS project. For non-qualified professionals, we provide an alternative path to LibreOffice Certification, which is outlined in detail in a specific paragraph.
 
 For the time being, LibreOffice Certification is free for everyone. On the other hand, The Document Foundation may decide at any time to ask for coverage of expenses incurred by the organization for the maintenance of the certification project.
 
@@ -20,11 +20,13 @@ LibreOffice Certification is also open to qualified professionals who are member
 
 ### Other non-qualified professionals
 
-Non TDF Members, willing to get the Migration Professional or Trainer Professional certification, and having no experience in the TDF community or in migration or training projects for LibreOffice must have at least user experience as well as experience in the IT professional service area.
+Professionals who have never been involved in LibreOffice migrations or trainings, and/or are not currently involved in any FOSS project do not qualify for LibreOffice Certification, and therefore have to follow a different process bofore becoming eligible for LibreOffice Certification.
 
-They have to show them and argue for their willingness and readiness for a mentorship program to reach this trained stages. After they have become trained they could be certified in the normal process as described above like TDF members.
+First, they must have at least an advanced user experience as well as a significant experience in the IT professional service area, and must provide some evidence of these requisites.
 
-The mentorship is lasting a minimum of half a year and is proceeded by a certified member of the committee with activities in following areas:
+Second, they must be able to argue for their willingness and readiness for a mentorship program to reach the "trained" stage. In fact, only after they have been trained they could be certified according to the normal process.
+
+The mentorship is lasting a minimum of half a year, and is followed by a member of the certification committee with activities in the following areas:
 
 * Training via video conference with the certification material \(whitepaper for migrations, trainings\) in a
 * Check and discuss questions out of the certification questionnaire\(without handing out the whole document!\)in the different sections
