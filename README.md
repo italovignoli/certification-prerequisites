@@ -28,14 +28,14 @@ Second, they must be able to demonstrate their willingness and readiness for a m
 
 The mentorship program, followed by a member of the Certification Committee, will last a minimum of six months, and will be based on a mix of the following activities:
 
-* Training via video conference focused on certification materials \(Migration and Training Protocols, and other documents featured in the bibliography/webography which will be chosen according to the experience of the candidate\)
-* Discussion about questions out of the certification questionnaire\(without handing out the whole document!\)in the different sections
-* Help and mentoring at least two areas of community help \(like helping in bug hunting sessions, attending and active participation in a hackfest, answering user questions on mailing lists/forums, working within qa, documentation, marketing, development …\)
-* When no lasting project in migration or training is done: prepare and demonstrate a set of training materials or a project&communication plan for a fictive customer \(what is needed as well when they are doing such a project, so its a perfect preparation for acquiring or doing such a project\)
+* Training via video conference focused on certification materials \(Migration and Training Protocols, and other documents featured in the bibliography/webography which will be chosen according to the experience of the candidate\).
+* Discussion about questions included in the different sections of the certification questionnaire \(of course, without handing out the document\).
+* Contributing and mentoring in a minimum of two different areas of community contributions \(i.e. helping in bug hunting sessions, actively attending a hackfest or a similar meeting, answering user questions on mailing lists and forums, working with QA, localization and documentation teams, contributing to marketing, developing the source code, ...\).
+* When there isn't any migration or training project available to demonstrate on the job experience, prepare and present a set of training materials or a complete project plan for the migration of a fictitios customer \(i.e. different project steps, timeline, activities for each step, expected outcomes, potential obstacles and related solutions, ...\).
 
-After this period \(of at least half a year\) the mentor will help to apply the application and testify for the applicant to the certification committee, and if it is recognized they will proceed the normal certification process as experienced ones \(without guaranty for getting the certification batch\).
+At the end of the mentorship program, the mentor will help to file the application and provide the relevant background about the candidate to the other members of the Certification Committee, in order for them to decide if the candidate can be admitted to the normal certification process as a qualified professional \(of course, with the same chances of every other candidate\).
 
-### **Certification expiration and renewal**
+### **Certification Expiration and Renewal**
 
 Certification will expire two years after the peer-to-peer review, and could be renewed for another two years after the expiration date, based on the following criteria:
 
