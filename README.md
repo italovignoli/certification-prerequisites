@@ -20,7 +20,7 @@ LibreOffice Certification is also open to qualified professionals who are member
 
 ### Other non-qualified professionals
 
-Professionals who have never been involved in LibreOffice migrations or trainings, and/or are not currently involved in any FOSS project do not qualify for LibreOffice Certification, and therefore have to follow a different process bofore becoming eligible for LibreOffice Certification.
+Professionals who have never been involved in LibreOffice migrations or trainings, and/or are not currently involved in any FOSS project do not qualify for LibreOffice Certification as such, and therefore have to follow a different process before being eligible for LibreOffice Certification.
 
 First, they must have at least an advanced user experience as well as a significant experience in the IT professional service area, and must provide some evidence of these requisites.
 
