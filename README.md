@@ -8,13 +8,15 @@ For the time being, LibreOffice Certification is free for everyone. On the other
 
 LibreOffice Certification will always be free \(as in beer\) for TDF Members, and also for active project members such as regular code contributors, volunteers active in QA and localization projects, contributors of native language projects, and other volunteers recognized for the quality and continuity of their work by the Certification Committee.
 
-Certification is subject to the involvement in LibreOffice migration and training projects. The involvement must be demonstrated by a number of relevant documents \(described in a list at the end of this document\), which is a pre-requisite for the access to the peer-to-peer review.
+Certification is subject to the involvement in LibreOffice migration and training projects. The involvement must be demonstrated by a number of relevant documents \(described in a list at the end of this text\), which is a pre-requisite for the access to the peer-to-peer review.
 
 Professionals willing to be certified must fill in the application form, and provide the necessary documents \(see the list below\). Once the Certification Committee has duly reviewed and approved the application, the candidate will be able to go through the peer-to-peer review.
 
-Certification is open throughout the year. Once candidates are approved by the Certification Committee, they will be admitted to the peer-to-peer review session. There will be at least two sessions each year: one at FOSDEM in Winter and one at the LibreOffice Conference in Summer. Other certification sessions might be planned according to the number of candidates.
+Certification is open throughout the year. Once candidates are approved by the Certification Committee, they will be admitted to the first planned peer-to-peer review session. There will be at least two sessions each year: one at FOSDEM in Winter and one at the LibreOffice Conference in Summer. Other certification sessions might be planned according to the number of candidates.
 
 ### Non TDF Members
+
+
 
 Non TDF Members, willing to get the Migration Professional or Trainer Professional certification, and having no experience in the TDF community or in migration or training projects for LibreOffice must have at least user experience as well as experience in the IT professional service area.
 
