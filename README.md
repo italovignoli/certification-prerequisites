@@ -1,10 +1,10 @@
 # LIBREOFFICE CERTIFICATION PRE-REQUISITES
 
-LibreOffice Certification is open to all qualified professionals, with an obvious preference for TDF Members and active project members.
+LibreOffice Certification is open to all qualified professionals, with an obvious preference for TDF Members and active project members. With the term qualified, we refer to people who have been or are involved in LibreOffice Migration or Training projects. For non-qualified professionals, we provide an alternative path to LibreOffice Certification, which is outlined in detail in a specific paragraph.
 
 For the time being, LibreOffice Certification is free for everyone. On the other hand, The Document Foundation may decide at any time to ask for coverage of expenses incurred by the organization for the maintenance of the certification project.
 
-### TDF Members
+### Qualified TDF Members
 
 LibreOffice Certification will always be free \(as in beer\) for TDF Members, and also for active project members such as regular code contributors, volunteers active in QA and localization projects, contributors of native language projects, and other volunteers recognized for the quality and continuity of their work by the Certification Committee.
 
@@ -14,9 +14,11 @@ Professionals willing to be certified must fill in the application form, and pro
 
 Certification is open throughout the year. Once candidates are approved by the Certification Committee, they will be admitted to the first planned peer-to-peer review session. There will be at least two sessions each year: one at FOSDEM in Winter and one at the LibreOffice Conference in Summer. Other certification sessions might be planned according to the number of candidates.
 
-### Non TDF Members
+### Qualified Members of other FOSS Projects
 
+LibreOffice Certification is also open to qualified professionals who are members of other FOSS projects, with a priority for those sitting in the Advisory Board of The Document Foundation: Free Software Foundation, Free Software Foundation Europe, GNOME and KDE. For these professionals, the rules and the process for certification are the same as for TDF Members.
 
+### Other non-qualified professionals
 
 Non TDF Members, willing to get the Migration Professional or Trainer Professional certification, and having no experience in the TDF community or in migration or training projects for LibreOffice must have at least user experience as well as experience in the IT professional service area.
 
