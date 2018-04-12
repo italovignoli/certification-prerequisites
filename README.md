@@ -16,20 +16,20 @@ Certification is open throughout the year. Once candidates are approved by the C
 
 ### Qualified Members of other FOSS Projects
 
-LibreOffice Certification is also open to qualified professionals who are members of other FOSS projects, with a priority for those sitting in the Advisory Board of The Document Foundation: Free Software Foundation, Free Software Foundation Europe, GNOME and KDE. For these professionals, the rules and the process for certification are the same as for TDF Members.
+LibreOffice Certification is also open to qualified professionals who are members of other FOSS projects, with a priority for those sitting in the Advisory Board of The Document Foundation: Free Software Foundation, Free Software Foundation Europe, GNOME and KDE. Members of other FOSS projects will have to provide evidence of their contributions. For these professionals, the rules and the process for certification are the same as for TDF Members.
 
-### Other non-qualified professionals
+### Non-Qualified Professionals
 
 Professionals who have never been involved in LibreOffice migrations or trainings, and/or are not currently involved in any FOSS project do not qualify for LibreOffice Certification as such, and therefore have to follow a different process before being eligible for LibreOffice Certification.
 
-First, they must have at least an advanced user experience as well as a significant experience in the IT professional service area, and must provide some evidence of these requisites.
+First, they must demonstrate a thorough knowledge of LibreOffice and ODF \(Open Document Format\) at least at power user level, as well as an equivalent experience in the IT professional service area, and must provide evidence of these requisites in writing or during a video conference with a member of the Certification Committee.
 
-Second, they must be able to argue for their willingness and readiness for a mentorship program to reach the "trained" stage. In fact, only after they have been trained they could be certified according to the normal process.
+Second, they must be able to demonstrate their willingness and readiness for a mentorship program to reach the "trained" stage. In fact, only after they have been trained they could be certified according to the normal process.
 
-The mentorship is lasting a minimum of half a year, and is followed by a member of the certification committee with activities in the following areas:
+The mentorship program, followed by a member of the Certification Committee, will last a minimum of six months, and will be based on a mix of the following activities:
 
-* Training via video conference with the certification material \(whitepaper for migrations, trainings\) in a
-* Check and discuss questions out of the certification questionnaire\(without handing out the whole document!\)in the different sections
+* Training via video conference focused on certification materials \(Migration and Training Protocols, and other documents featured in the bibliography/webography which will be chosen according to the experience of the candidate\)
+* Discussion about questions out of the certification questionnaire\(without handing out the whole document!\)in the different sections
 * Help and mentoring at least two areas of community help \(like helping in bug hunting sessions, attending and active participation in a hackfest, answering user questions on mailing lists/forums, working within qa, documentation, marketing, development …\)
 * When no lasting project in migration or training is done: prepare and demonstrate a set of training materials or a project&communication plan for a fictive customer \(what is needed as well when they are doing such a project, so its a perfect preparation for acquiring or doing such a project\)
 
