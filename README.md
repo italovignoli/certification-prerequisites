@@ -10,13 +10,13 @@ For the time being, LibreOffice Certification is free for everyone. On the other
 
 Is able to coordinate the migration process from a proprietary office suite to LibreOffice, or a large deployment of LibreOffice, working with the customer to manage the change in all aspects \(analysis, communication, integration, development of macros and templates, training, deployment and support\) in order to have a smooth transition. Involvement in just one activity, such as Level 3 support, integration, or development of macros, does not allow to apply for certification.
 
-Certification criteria are based on the [Migration Protocol](https://www.documentfoundation.org/assets/Certification/tdf-migrationprotocol.pdf), which is considered a reference document for migrations and large deployments.
+Certification criteria are based on the [Migration Protocol](https://www.documentfoundation.org/assets/Certification/tdf-migrationprotocol.pdf), which is considered a reference document for migrations and large deployments.
 
 #### **Certified Professional Trainer**
 
 Is able to teach the use of LibreOffice at basic, intermediate or advanced level, by defining the syllabus, creating the training materials and providing the hands-on training. Training activities must be targeted to end users, or to people expected to train end users within a migration project or a training project \(such as a course for individual end users\). Developer's mentoring, although comparable to a training activity, does not allow to apply for certification.
 
-Certification criteria are based on the [Training Protocol](https://www.documentfoundation.org/assets/Certification/tdf-trainingprotocol.pdf), which is considered a reference document for all trainings.
+Certification criteria are based on the [Training Protocol](https://www.documentfoundation.org/assets/Certification/tdf-trainingprotocol.pdf), which is considered a reference document for all trainings.
 
 ### Qualified TDF Members
 
