@@ -8,13 +8,17 @@ For the time being, LibreOffice Certification is free for everyone. On the other
 
 #### **Certified Migration Professional**
 
-Is able to coordinate the migration process from a proprietary office suite to LibreOffice, or a large deployment of LibreOffice, working with the customer to manage the change in all aspects \(analysis, communication, integration, development of macros and templates, training, deployment and support\) in order to have a smooth transition. Involvement in just one activity, such as Level 3 support, integration, or development of macros, does not allow to apply for certification.
+META SKILL: Is able to coordinate the migration process from a proprietary office suite to LibreOffice, or a large deployment of LibreOffice, working with the customer to manage the change in all aspects \(analysis, communication, integration, development of macros and templates, training, deployment and support\) in order to have a smooth transition. Involvement in just one of all migration related activities does not allow to apply for certification.
+
+VERTICAL SKILLS: the Review Committee might decide, at its own discretion, to accept candidates with specific "vertical" skills \(for instance, analysis and communications\) if they show to be able to exercise these skills within a global migration project, by contributing to the project management activity.
 
 Certification criteria are based on the [Migration Protocol](https://www.documentfoundation.org/assets/Certification/tdf-migrationprotocol.pdf), which is considered a reference document for migrations and large deployments.
 
 #### **Certified Professional Trainer**
 
-Is able to teach the use of LibreOffice at basic, intermediate or advanced level, by defining the syllabus, creating the training materials and providing the hands-on training. Training activities must be targeted to end users, or to people expected to train end users within a migration project or a training project \(such as a course for individual end users\). Developer's mentoring, although comparable to a training activity, does not allow to apply for certification.
+META SKILL: is able to teach the development or the use of LibreOffice at basic, intermediate or advanced level, by defining the syllabus, creating the training materials and providing the hands-on training. Training activities must be carried out in classes and targeted to a group of people, and not to individuals \(such as mentoring a GSoC student, or explaining a feature to a single user\). In general, training should happen within a migration project or a training project \(such as a course for individual end users\).
+
+VERTICAL SKILLS: the Review Committee might decide, at its own discretion, to accept candidates with specific "vertical" skills \(for instance, Writer, or Calc, or Impress/Draw, or Macros\) if they show to be able to exercise these skills within a global training project, by also contributing to the syllabus development activity.
 
 Certification criteria are based on the [Training Protocol](https://www.documentfoundation.org/assets/Certification/tdf-trainingprotocol.pdf), which is considered a reference document for all trainings.
 
